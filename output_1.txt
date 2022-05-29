@@ -1,0 +1,36 @@
+email_hash : 59029276955677351421b3ff6bf5ee4c
+domain : gmail.com
+tags : ['123456', 'Roman Ivanov', '+79998887761', 'Moscow, Ulitsa, dom, kv1']
+
+email_hash : fa7c3fcb670a58aa3e90a391ea533c99
+domain : gmail.com
+tags : ['pass', 'Sidorov Sergey Serggevich', '+7(999)8887764', 'Moscow, Ulitsa2, dom3, kv1']
+
+email_hash : a3012064ea70afa9351e80e4a62b5dcb
+domain : gmail.com
+tags : ['P@assword', 'Anton Kotov', '8-999-888-77-66']
+
+email_hash : de934b5a66b34c72636d2e34ad075e8d
+domain : gmail.com
+tags : ['love', 'Kotova Maria Ivanovna', '1111']
+
+email_hash : 70a910d1849c17436d6099bcc31ed1a5
+domain : gmail.com
+tags : ['sex', 'Alisa Alisova', '+79998887761']
+
+email_hash : e21455a762dddc92a0e3635ef3f1e925
+domain : gmail.com
+tags : ['wow123']
+
+email_hash : 3527de2f31f92bfb8273fe607a3badf8
+domain : gmail.com
+tags : ['qwerty']
+
+email_hash : 8f175290e672fb87ec57c5e10a6e804e
+domain : gmail.com
+tags : ['qazwsx', 'Artem', '+79998887769', 'Moscow, Ulitsa3, dom1, kv33']
+
+email_hash : 74b826cb9dd701580b840eb3a87c2681
+domain : gmail.com
+tags : ['111111', 'Andrey', '90311122233']
+

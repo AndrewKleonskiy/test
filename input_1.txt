@@ -1,0 +1,10 @@
+id;login;password;name;phone;address
+1;user1@gmail.com;123456;Roman Ivanov;+79998887761;Moscow, Ulitsa, dom, kv1
+2;user2@gmail.com;pass;Sidorov Sergey Serggevich;+7(999)8887764;Moscow, Ulitsa2, dom3, kv1
+3;user3@gmail.com;P@assword;Anton Kotov;8-999-888-77-66;
+4;user4@gmail.com;love;Kotova Maria Ivanovna;1111;
+5;user5@gmail.com;sex;Alisa Alisova;+79998887761;
+6;user6@gmail.com;wow123;;;
+7;user7@gmail.com;qwerty;;;
+8;user8@gmail.com;qazwsx;Artem;+79998887769;Moscow, Ulitsa3, dom1, kv33
+9;user9@gmail.com;111111;Andrey;90311122233;
